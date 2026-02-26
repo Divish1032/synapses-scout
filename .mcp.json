@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "synapses": {
+      "args": [
+        "start",
+        "-path",
+        "/Users/itachi/Documents/Github/synapses-scout"
+      ],
+      "command": "synapses",
+      "type": "stdio"
+    }
+  }
+}
